@@ -1,2 +1,3 @@
 # Amazon-Clone
-I have developed a Amazon.com Clone made using Html and Css.
+I have developed a Amazon.com(globe)  website clone 
+It's made using Html and Css.
